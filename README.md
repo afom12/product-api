@@ -7,7 +7,7 @@ A product-management REST API built with **Node.js + Express** and **libSQL (SQL
 - Product IDs are generated on the server (UUID).
 - 5 fictional products are seeded automatically when the database is empty.
 
-**Live demo:** https://product-api.vercel.app (open it to use the test page)
+**Live demo:**[ https://product-api.vercel.app (open it to use the test page)](https://product-api-h3km.vercel.app)
 
 ## Product fields
 
